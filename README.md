@@ -1,4 +1,4 @@
-### Hi there, I'm Tanaka. Welcome to my playground! 👋
+### Hi there, I'm Tanaka. Welcome to "The Playground"! 👋
 
 DESIGNER || DEVELOPER || DREAMER
 
