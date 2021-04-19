@@ -2,7 +2,7 @@
 
 || DEVELOPER || 
 
-Just playing my part in shaping the future. 
+Just here playing my part in shaping the future. 
 
 - 🔭 I’m currently focusing my efforts on front end developement.
 - 🌱 I’m currently learning React.js
